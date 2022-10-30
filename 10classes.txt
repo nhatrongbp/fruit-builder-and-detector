@@ -1,0 +1,27 @@
+TÊN CLASS		TIẾNG VIỆT			ĐẶC ĐIỂM MẮT THƯỜNG		CHỌN HAY KHÔNG
+apple braeburn 	táo				đỏ vàng - tròn
+apricot 		quả mơ 			cam - tròn
+avocado 		quả bơ			xanh lá cây rất đậm - elip	chọn
+banana		chuối				vàng - cong				chọn
+blue berry		việt quất			tím than - elip
+cantaloupe 2	dưa gang			vàng nhạt - tròn
+carambula		khế				vàng - elip
+cocos			dừa				nâu - elip
+eggplant		cà tím			đen - elip
+grapefruit white	bưởi				vàng - tròn
+guava			ổi				vàng - tròn
+limes			chanh				xanh lá cây nhạt - tròn
+lychee		vải thiều 			màu hồng - tròn			chọn
+mandarine		quýt 				cam - tròn
+mangostan		măng cụt			lựu đạn				chọn
+orange						cam - tròn
+peach			đào				đỏ - tròn
+pear			lê				vàng nhạt - tròn
+pineapple		dứa				đơn giản là dứa			chọn
+pitahaya red	thanh long			hồng - elip				chọn
+plum			mận				mận - tròn
+pomegranate		lựu				đỏ - tròn
+rambutan		chôm chôm			lông - tròn				chọn
+strawberry		dâu tây			đỏ - tam giác			chọn
+walnut		oc cho			nâu - tròn				chọn
+watermelon		dưa hấu			sọc xanh lá - tròn		chọn

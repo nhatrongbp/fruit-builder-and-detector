@@ -1,0 +1,20 @@
+	CÔNG VIỆC							ĐỘ KHÓ		THÀNH VIÊN
+
+Crop ảnh 10 loài trái cây				1*			
+
+Train mô hình phân loại	(random forest)		1.5*
+
+Thiết kế giao diện ứng dụng				1*
+
+Ứng dụng hỗ trợ xây dataset dùng PyQt5		2*				hieu
+
+Ứng dụng hỗ trợ nhận dạng 3 loại ảnh:
+- preprocessed, segmented iamge			1*
+- image segmentation by waterShed			2*				hieu
+- image segmentation by grabCut			2*				hiue
+
+Viết quyển báo cáo					2*				hieu
+
+Slide								1*
+
+*Note: tôi làm hết rồi ô chỉ việc chọn phần rồi đọc hiểu code để biết đường báo cáo cho thầy thôi

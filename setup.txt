@@ -1,0 +1,9 @@
+opencv-python
+numpy
+scipy
+scikit-image
+sklearn
+imutils
+PyQt5
+qdarkstyle
+qtwidgets
