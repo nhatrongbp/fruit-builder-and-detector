@@ -8,6 +8,7 @@ download all files from this repository and move to your project's folder.
 terminate to the project's folder and run 'pip install -r setup.txt'
 # fruit dataset builder - IT worker edition
 Run 'datasetBuilder.py' file
+
 step 1. choose an image from path.
 
 step 2. use your mouse to crop a bounding box that bounds only one fruit per box.
@@ -21,6 +22,7 @@ step 1. run 'main.py' file.
 step 2. choose an image from path.
 
 step 3. if you click:
+
 "Manual": you can manually crop a bounding box that bound the fruit you want to clasify, and see the result.
 
 "Automatic": the waterShed will automatically predict all possible bounding boxs then classify the fruit appears on each box.
